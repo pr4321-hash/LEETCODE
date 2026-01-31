@@ -2,4 +2,6 @@
 #C
 #reversestring
 #pranavsasi
-#REVERSESTRING
+#REVERSEinteger
+#python
+#palindrome
